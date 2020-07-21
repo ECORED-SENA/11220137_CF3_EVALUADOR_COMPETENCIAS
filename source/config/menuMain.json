@@ -1,0 +1,16 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "cierre_proceso_eccl",
+    "title": "1. Cierre del proceso ECCL",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/tema-1.html"     
+  }
+]

@@ -1,0 +1,33 @@
+[  
+  {
+    "letter": "D",
+    "terms": [
+      {
+        "title": "DSNFT:",
+        "desciption": "Dirección del Sistema Nacional de Formación para el Trabajo."
+      }
+    ]
+  },
+  {
+    "letter": "E",
+    "terms": [
+      {
+        "title": "ECCL:",
+        "desciption": "Evaluación y Certificación de Competencias Laborales."
+      }
+    ]
+  },        
+  {
+    "letter": "P",
+    "terms": [
+      {
+        "title": "PAC:",
+        "desciption": "Plan de Acciones Correctivas."
+      },
+      {
+        "title": "PQRSF:",
+        "desciption": "Peticiones, Quejas, Reclamos, Sugerencias y felicitaciones."
+      }
+    ]
+  }
+]
